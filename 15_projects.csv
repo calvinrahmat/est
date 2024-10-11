@@ -1,0 +1,16 @@
+Name,ID,Description,URL,Archived,Commit Count,Storage Size (MB),Repository Size (MB),Wiki Size (MB),LFS Objects Size (MB),Job Artifacts Size (MB),Pipeline Artifacts Size (MB),Packages Size (MB),Snippets Size (MB),Uploads Size (MB),Last Updated
+SoftPOS,905,"""",https://gitlab.nets.local/mobile-apps-group/softpos,FALSE,1,195.248,195.248,0,0,0,0,0,0,0,2024-02-21T04:34:20.788Z
+ing_tl2_nets_unattended,309,"Terminal""""",https://gitlab.nets.local/terminal-member-group/ing_tl2_nets_unattended,FALSE,1,177.716,177.656,0.059,0,0,0,0,0,0,2022-08-18T09:57:33.952Z
+trams,801,"""",https://gitlab.nets.local/app_delivery_group1/trams,FALSE,156,158.359,158.349,0.009,0,0,0,0,0,0,2024-09-04T06:27:55.969Z
+nets_app_android,563,"""",https://gitlab.nets.local/mobile-member-group/nets_app_android,FALSE,15,153.361,153.361,0,0,0,0,0,0,0,2023-11-02T10:21:08.023Z
+npx2-motoring,336,"""",https://gitlab.nets.local/npx-member-group/npx2-motoring,FALSE,1,102.653,102.653,0,0,0,0,0,0,0,2020-09-03T05:12:32.304Z
+androidterminal,821,"""",https://gitlab.nets.local/terminal-member-group/androidterminal,FALSE,505,93.406,93.406,0,0,0,0,0,0,0,2024-09-13T08:59:40.543Z
+npx2-paynow,388,"""",https://gitlab.nets.local/npx-member-group/npx2-paynow,FALSE,226,92.021,92.021,0,0,0,0,0,0,0,2022-12-16T03:06:06.039Z
+npx2-batch,338,"""",https://gitlab.nets.local/npx-member-group/npx2-batch,FALSE,80,68.967,68.967,0,0,0,0,0,0,0,2024-06-13T05:59:50.560Z
+npx2-portal,333,"""",https://gitlab.nets.local/npx-member-group/npx2-portal,FALSE,467,63.035,63.035,0,0,0,0,0,0,0,2024-09-09T01:57:33.008Z
+vcc_micro,815,"""",https://gitlab.nets.local/vcc1.0/vcc_micro,FALSE,22,62.649,62.649,0,0,0,0,0,0,0,2024-02-02T02:50:01.862Z
+npx-ecfiremesh,325,"""",https://gitlab.nets.local/npx-member-group/npx-ecfiremesh,FALSE,948,62.157,62.157,0,0,0,0,0,0,0,2023-03-03T07:08:51.352Z
+ppg_npc_card_perso,714,"""",https://gitlab.nets.local/nets_svf/svfg/ppg_npc_card_perso,FALSE,48,61.748,61.748,0,0,0,0,0,0,0,2024-07-24T07:55:05.600Z
+rtgs_report_parent,704,"""",https://gitlab.nets.local/rtgs/rtgs_report_parent,FALSE,39,50.812,50.812,0,0,0,0,0,0,0,2022-04-05T07:59:24.421Z
+vcc_massmig,591,"""",https://gitlab.nets.local/nets_svf/svfg/vcc_massmig,FALSE,1,50.101,50.101,0,0,0,0,0,0,0,2022-12-20T06:30:43.585Z
+ISOGateway,557,"""",https://gitlab.nets.local/nets_svf/svfg/isogateway,FALSE,1,47.227,47.227,0,0,0,0,0,0,0,2024-05-16T03:30:40.999Z
